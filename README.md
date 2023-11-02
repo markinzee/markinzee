@@ -1,4 +1,4 @@
-<h1 align="center">Oi!👋 me chamo Marcos</h1>
+<h1 align="center">Oi,👋 me chamo Marcos!</h1>
 <h3 align="center">Sou um jovem apaixonado por Dados e tecnologia no geral. 🖥️❤️</h3>
 
 - 📚 Atualmente estudando: **Python e bibliotecas para visualização e manipulação de dados, SQL, Power BI e Excel**
